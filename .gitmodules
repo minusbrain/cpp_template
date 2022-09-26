@@ -1,0 +1,3 @@
+[submodule "ext/aelib"]
+	path = ext/aelib
+	url = git@github.com:minusbrain/aelib.git
