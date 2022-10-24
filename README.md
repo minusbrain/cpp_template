@@ -4,5 +4,5 @@ CPP Project Template
 
 # Open Points
 
-[ ] Documentation build
-[ ] Docker based builds
+* [ ] Documentation build
+* [x] Docker based builds
