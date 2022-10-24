@@ -11,7 +11,7 @@ SET(GTEST_LIBS_TO_LINK GTest::gtest GTest::gmock GTest::gmock_main)
 
 set(CMAKE_CXX_STANDARD 20)
 set(CMAKE_EXPORT_COMPILE_COMMANDS ON)
-set(CMAKE_CXX_FLAGS "-Wall -Wextra -pedantic -Werror")
+set(CMAKE_CXX_FLAGS "-Wall -Wextra -Wconversion -pedantic -Werror")
 set(CMAKE_CXX_FLAGS_DEBUG "-Og -g -pg")
 set(CMAKE_CXX_FLAGS_RELEASE "-O3")
 
